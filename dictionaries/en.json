@@ -1,0 +1,21 @@
+{
+  "title": "Australia Mus Championship 2026",
+  "nav": {
+    "home": "Home",
+    "register": "Register!",
+    "rules": "Rules",
+    "gallery": "Gallery"
+  },
+  "hero": {
+    "title": "Australia Mus Championship 2026",
+"description": "Ongi etorri! Are you ready to join us once again for the Australia Mus Championship? This year, the tournament will be held at Gure Txoko Sydney on June 13th. We will kick off at 11:00 AM and, as always, we'll enjoy an unbeatable atmosphere: intense matches, great food and drinks... and excitement until the very last card. Get your best 'órdago' ready and register now! We can't wait to see you there."  },
+  "info": {
+    "title": "Event Information",
+    "date": "June 13th, 2026",
+    "time": "11:00 AM",
+    "location": "Gure Txoko, 344 Liverpool St, Darlinghurst NSW 2010"
+  },
+  "footer": {
+    "associations": "Partner Associations"
+  }
+}

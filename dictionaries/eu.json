@@ -1,0 +1,21 @@
+{
+  "title": "Australiako Mus Txapelketa 2026",
+  "nav": {
+    "home": "Hasiera",
+    "register": "Izena eman!",
+    "rules": "Arauak",
+    "gallery": "Argazkiak"
+  },
+  "hero": {
+    "title": "Australiako Mus Txapelketa 2026",
+    "description": "Ongi etorri! Prest al zaudete aurten ere Australiako Mus Txapelketan parte hartzeko? Aurten Sydneyko Gure Txokon ospatuko dugu, datorren ekainaren 13an. Goizeko 11etan hasiko gara eta, beti bezala, giro ezin hobeaz gozatuko dugu: neurketa estuak, janari eta edari ona... eta urduritasuna amaierara arte. Prestatu zure hordagorik onena eta eman izena oraintxe bertan! Zure zain gaude."  },
+  "info": {
+    "title": "Ekitaldiaren informazioa",
+    "date": "2026ko Ekainaren 13a",
+    "time": "11:00etan",
+    "location": "Gure Txoko, 344 Liverpool St, Darlinghurst NSW 2010"
+  },
+  "footer": {
+    "associations": "Elkarte Laguntzaileak"
+  }
+}
