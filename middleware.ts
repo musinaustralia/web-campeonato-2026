@@ -15,8 +15,8 @@ export function middleware(request: NextRequest) {
 }
 
 export const config = {
-  // Añadimos flags a la lista de excepciones (dentro del paréntesis)
   matcher: [
-    '/((?!api|_next/static|_next/image|favicon.ico|flags|.*\\.svg|.*\\.jpg|.*\\.png).*)',
+    // Ignora archivos internos de Netlify y estáticos
+    '/((?!api|_next/static|_next/image|favicon.ico|flags|.*\\.svg|.*\\.jpg|.*\\.png|_netlify).*)',
   ],
 };
