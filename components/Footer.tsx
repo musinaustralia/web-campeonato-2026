@@ -6,7 +6,7 @@ export default function Footer({ dict }: { dict: any }) {
   const footerDict = dict?.footer || { associations: "Asociaciones" };
 
   return (
-    <footer className="bg-slate-900 text-white pt-12 pb-6 mt-auto">
+    <footer className=" bg-[#1a5e3a]  text-white pt-12 pb-6 mt-auto">
       <div className="container mx-auto px-6 grid grid-cols-1 md:grid-cols-2 gap-12">
         
         {/* Columna Izquierda */}
